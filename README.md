@@ -1,5 +1,5 @@
-<h1 align="center">Hello reader! My name is Brian</h1>
-<h3 align="center">I'm a Software Developer based in NYC 🍎.</h3>
+<h1 align="center">Hello reader! My name is Briehn [aka Brian].</h1>
+<h3 align="center">A Software Developer based in NYC 🍎.</h3>
 
 - 🔭 I’m currently working on **become a more proactive developer.**
 
