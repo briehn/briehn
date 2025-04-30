@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **become a more proactive developer.**
 
-- 🌱 I’m currently learning **Python, ReactNative, and the basis of LLMs.**
-
 - 👨‍💻 All of my projects are available at [brian4yu.com](brian4yu.com)
 
 - 💬 Ask me about **the best animes to watch this season.**
