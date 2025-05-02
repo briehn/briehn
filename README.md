@@ -1,8 +1,6 @@
 <h1 align="center">Hello reader! My name is Briehn [aka Brian].</h1>
 <h3 align="center">A Software Developer based in NYC 🍎.</h3>
 
-- 🔭 I’m currently working on **become a more proactive developer.**
-
 - 👨‍💻 All of my projects are available at [brian4yu.com](brian4yu.com)
 
 - 💬 Ask me about **the best animes to watch this season.**
