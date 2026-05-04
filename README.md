@@ -17,17 +17,9 @@ Developed an AI-assisted job application tracker that uses OpenAI to analyze job
 
 **Focus:** AI-driven job description analysis, Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, backend APIs, server-side authorization, usage rate limiting, job application workflows.
 
-### Minecraft Server Operations & Tooling
-Owner/developer of a live modded game server community with 200+ Discord members and 15–30 concurrent players. Built custom datapacks, configured server-side systems, managed hosting migrations, handled backups, monitored performance, and created event/reward tooling for player engagement.
-
-**Focus:** Java/Fabric ecosystem, JSON configs, server operations, community tooling, debugging, performance monitoring
-
 ## Skills & Technologies
 - **Backend:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma, REST APIs, GraphQL
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **DevOps:** Docker, Vercel, GitHub Actions, Deployment on Vercel, CI/CD Pipelines
 - **AI & Tools:** OpenAI, GPT-4, AI-driven job analysis
 - **Other:** Git, Docker, Nginx, Redis, Prisma, JWT, PostgreSQL, MongoDB
-
-## About Me
-As a software engineer, I enjoy working on both **backend architecture** and **AI-integrated solutions**. I’m passionate about **solving real-world problems** with clean, maintainable code. I believe in leveraging **modern technologies** to build scalable, high-performance systems. When I’m not coding, you can find me engaged in community-driven projects and gaming.
