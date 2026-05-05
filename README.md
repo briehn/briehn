@@ -1,25 +1,34 @@
 # Hi, I'm Brian 👋
 
-### Full-Stack Developer focused on backend systems, AI-powered tools, and community-driven applications.
+### Full-Stack Developer focused on backend systems, AI-powered tools, and practical web applications.
 
-I’m a software developer based in NYC, building practical full-stack projects with React, Next.js, TypeScript, Node.js, and PostgreSQL. I’m currently focused on creating recruiter-ready projects that demonstrate real product thinking, backend design, and clean user experiences.
+I’m a software developer based in NYC building full-stack projects with React, Next.js, TypeScript, Node.js, and PostgreSQL. I’m currently focused on creating recruiter-ready projects that demonstrate real product thinking, backend design, secure user-owned data, and clean user experiences.
 
-- 🔭 **Currently building:** AI-assisted job/project tracking tools
-- 🧠 **Learning:** Deepening my knowledge of backend architecture, TypeScript, and AI integrations
+- 🔭 **Currently building:** Track My Apps, an AI-powered job application tracker
+- 🧠 **Learning:** Backend architecture, TypeScript, testing, and AI integrations
 - 🛠️ **Experience:** Running and maintaining a live modded game server community with 200+ Discord members and 15–30 concurrent players
 - 🌐 **Portfolio:** [brian4yu.com](https://brian4yu.com)
+- 🚀 **Featured project:** [Track My Apps](https://trackmyapps.dev)
 - 📫 **Contact:** briehnyu@gmail.com
 
 ## Featured Work
 
-### Track My Apps – AI-Powered Job Tracker
-Developed an AI-assisted job application tracker that uses OpenAI to analyze job descriptions. Built using Next.js, TypeScript, and Prisma with PostgreSQL. Implemented job status tracking, user-owned data, and job analysis workflows, with features like saving and editing job details, managing status updates, and storing custom notes.
+### Track My Apps — AI-Powered Job Application Tracker
 
-**Focus:** AI-driven job description analysis, Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, backend APIs, server-side authorization, usage rate limiting, job application workflows.
+[Live App](https://trackmyapps.dev) | [GitHub](YOUR_REPO_LINK_HERE)
+
+Built and deployed a full-stack job application tracker that helps users save jobs, track application statuses, manage archived listings, add notes, and analyze job descriptions with AI.
+
+The app uses Google OAuth, Prisma-backed sessions, server-side ownership checks, Zod validation, OpenAI-powered job description analysis, production AI usage limits, and focused Vitest unit tests for core validation/helper logic.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL/Neon, NextAuth, OpenAI API, Vitest, Vercel
+
+**Focus:** AI job description analysis, user-owned data, server-side authorization, job application workflows, production deployment, validation, and testing.
 
 ## Skills & Technologies
-- **Backend:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma, REST APIs, GraphQL
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **DevOps:** Docker, Vercel, GitHub Actions, Deployment on Vercel, CI/CD Pipelines
-- **AI & Tools:** OpenAI, GPT-4, AI-driven job analysis
-- **Other:** Git, Docker, Nginx, Redis, Prisma, JWT, PostgreSQL, MongoDB
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, Express.js, Prisma, REST APIs, server actions, authentication
+- **Databases:** PostgreSQL, Neon, MongoDB, SQL
+- **AI & Tooling:** OpenAI API, Zod, Vitest, Git, Vercel
+- **Additional Experience:** Ruby on Rails, Docker basics, Linux/server operations, JSON configuration, performance monitoring
