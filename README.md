@@ -15,15 +15,13 @@ I’m a software developer based in NYC building full-stack projects with React,
 
 ### Track My Apps — AI-Powered Job Application Tracker
 
-[Live App](https://trackmyapps.dev) | [GitHub](YOUR_REPO_LINK_HERE)
+[Live App](https://trackmyapps.dev) | [GitHub](https://github.com/briehn/Track-My-Apps)
 
-Built and deployed a full-stack job application tracker that helps users save jobs, track application statuses, manage archived listings, add notes, and analyze job descriptions with AI.
+Built and deployed a full-stack job application tracker for saving roles, managing application statuses, tracking notes/deadlines, importing/exporting CSV job data, and using AI to analyze job descriptions, extract resume/profile details, and compare a profile against saved job requirements.
 
-The app uses Google OAuth, Prisma-backed sessions, server-side ownership checks, Zod validation, OpenAI-powered job description analysis, production AI usage limits, and focused Vitest unit tests for core validation/helper logic.
+**Stack:** Next.js, React, TypeScript, Prisma, PostgreSQL/Neon, NextAuth, Google OAuth, OpenAI API, Zod, Vitest, Vercel
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL/Neon, NextAuth, OpenAI API, Vitest, Vercel
-
-**Focus:** AI job description analysis, user-owned data, server-side authorization, job application workflows, production deployment, validation, and testing.
+**Focus:** Server-side authorization, user-owned data, structured AI output validation, profile-to-job matching, CSV import/export, production usage limits, and focused unit testing.
 
 ## Skills & Technologies
 
